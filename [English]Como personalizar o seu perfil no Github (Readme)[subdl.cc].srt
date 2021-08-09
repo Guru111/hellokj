@@ -1,0 +1,2111 @@
+﻿2
+00:00:00,000 --> 00:00:04,859
+Hi, people welcome to another one
+
+4
+00:00:02,939 --> 00:00:06,210
+Video here from the channel I'm Rafaella
+
+6
+00:00:04,859 --> 00:00:08,610
+Ballerini and today I'll show you to
+
+8
+00:00:06,210 --> 00:00:12,210
+You how to make a custom profile
+
+10
+00:00:08,610 --> 00:00:17,880
+From the Ruby gift like this one here is
+
+12
+00:00:12,210 --> 00:00:20,670
+In case you're not yet
+
+14
+00:00:17,880 --> 00:00:21,840
+Familiar with ggit and
+
+16
+00:00:20,670 --> 00:00:24,119
+The Rubi kit that are these two
+
+18
+00:00:21,840 --> 00:00:26,400
+Code versioning tools
+
+20
+00:00:24,119 --> 00:00:27,930
+You can check it here in my videos
+
+22
+00:00:26,400 --> 00:00:30,090
+Right I made a playlist actually
+
+24
+00:00:27,930 --> 00:00:32,610
+Explaining how the hit works and
+
+26
+00:00:30,090 --> 00:00:34,170
+Like that you apply in practice these
+
+28
+00:00:32,610 --> 00:00:35,670
+So today I'll show knowledge
+
+30
+00:00:34,170 --> 00:00:38,010
+For you how to leave the profile of
+
+32
+00:00:35,670 --> 00:00:39,870
+Hip-hop similar to mine that is from this
+
+34
+00:00:38,010 --> 00:00:41,700
+Way that as I 've already shown you
+
+36
+00:00:39,870 --> 00:00:43,140
+And I'm also going to show you some things
+
+38
+00:00:41,700 --> 00:00:44,940
+Additional that you can put
+
+40
+00:00:43,140 --> 00:00:46,949
+Because I didn't necessarily put
+
+42
+00:00:44,940 --> 00:00:48,539
+Everything you can put on actually gives
+
+44
+00:00:46,949 --> 00:00:50,339
+To put zillion things in number
+
+46
+00:00:48,539 --> 00:00:52,079
+Things and I'll show you guys
+
+48
+00:00:50,339 --> 00:00:54,059
+A few different there that I found by
+
+50
+00:00:52,079 --> 00:00:55,530
+Internet that are very cool Remembering
+
+52
+00:00:54,059 --> 00:00:57,809
+That the videos I 've been making
+
+54
+00:00:55,530 --> 00:01:00,089
+I 've been writing the script on Mars Down and
+
+56
+00:00:57,809 --> 00:01:01,379
+Rising this script in the repository of
+
+58
+00:01:00,089 --> 00:01:03,149
+Ruby kit that I'll leave here in the
+
+60
+00:01:01,379 --> 00:01:04,860
+Description So the first thing I
+
+62
+00:01:03,149 --> 00:01:07,170
+I'll show you guys how my
+
+64
+00:01:04,860 --> 00:01:09,360
+Né profile What's so cool here
+
+66
+00:01:07,170 --> 00:01:12,220
+That we're going to put during this
+
+68
+00:01:09,360 --> 00:01:14,470
+Video I have this repository here
+
+70
+00:01:12,220 --> 00:01:16,960
+Today I'm gonna teach you to do in this
+
+72
+00:01:14,470 --> 00:01:19,090
+Video has several information as follows
+
+74
+00:01:16,960 --> 00:01:21,220
+Thesis rubies that shows all the invitations
+
+76
+00:01:19,090 --> 00:01:23,620
+The stars I 've got the languages
+
+78
+00:01:21,220 --> 00:01:25,660
+That I use the most I put pictures
+
+80
+00:01:23,620 --> 00:01:28,540
+Also from the photos not images of the
+
+82
+00:01:25,660 --> 00:01:30,640
+Languages I use is my networks
+
+84
+00:01:28,540 --> 00:01:32,290
+All social and this little charge super
+
+86
+00:01:30,640 --> 00:01:34,240
+Cool who eats the comets beyond mine
+
+88
+00:01:32,290 --> 00:01:36,730
+Gif here too that I did at the beginning of the
+
+90
+00:01:34,240 --> 00:01:38,500
+Year I thought it was really cute and it's there then
+
+92
+00:01:36,730 --> 00:01:40,210
+For this video people to show the
+
+94
+00:01:38,500 --> 00:01:42,580
+Step by step for you I created a
+
+96
+00:01:40,210 --> 00:01:45,280
+Different account from my right to be able
+
+98
+00:01:42,580 --> 00:01:48,790
+Start from scratch and create with you
+
+100
+00:01:45,280 --> 00:01:51,280
+Things and don't follow me in her please go
+
+102
+00:01:48,790 --> 00:01:52,990
+Be the Rafa gallery and two but mine
+
+104
+00:01:51,280 --> 00:01:54,910
+This is Rafa's official account
+
+106
+00:01:52,990 --> 00:01:57,479
+Normal ballerini so here we have my
+
+108
+00:01:54,910 --> 00:02:00,070
+Fake profile that is used for
+
+110
+00:01:57,479 --> 00:02:01,600
+Crack the people here in the Rubi a kit
+
+112
+00:02:00,070 --> 00:02:03,850
+People already have the contributions here
+
+114
+00:02:01,600 --> 00:02:06,100
+That table of comics that in fact
+
+116
+00:02:03,850 --> 00:02:09,130
+Had in my profile has none
+
+118
+00:02:06,100 --> 00:02:11,140
+Because I didn't use this account and as
+
+120
+00:02:09,130 --> 00:02:12,200
+If I do the invitations he's gonna
+
+122
+00:02:11,140 --> 00:02:14,470
+Increasing the
+
+124
+00:02:12,200 --> 00:02:17,300
+And put that I want the
+
+126
+00:02:14,470 --> 00:02:22,099
+Private contributions appear too
+
+128
+00:02:17,300 --> 00:02:24,440
+So I'll put that what connected is and the
+
+130
+00:02:22,099 --> 00:02:26,090
+That that would be it's actually when
+
+132
+00:02:24,440 --> 00:02:30,800
+You see in my profile let in
+
+134
+00:02:26,090 --> 00:02:32,720
+My profile is normal Rafa ballerini you
+
+136
+00:02:30,800 --> 00:02:34,670
+You can see it's full of stuff he's got
+
+138
+00:02:32,720 --> 00:02:36,530
+A lot of contribution a lot of invitation that I
+
+140
+00:02:34,670 --> 00:02:38,780
+I did in a private repository that's not
+
+142
+00:02:36,530 --> 00:02:42,280
+Public these comments they will only enter
+
+144
+00:02:38,780 --> 00:02:45,049
+In this table on this Count if I leave
+
+146
+00:02:42,280 --> 00:02:46,730
+And here I already called because then
+
+148
+00:02:45,049 --> 00:02:48,950
+There will appear more thing right it seems that I
+
+150
+00:02:46,730 --> 00:02:51,019
+I do more here we go now
+
+152
+00:02:48,950 --> 00:02:52,400
+Finally do the most part
+
+154
+00:02:51,019 --> 00:02:55,489
+Interesting that it's really
+
+156
+00:02:52,400 --> 00:02:57,769
+Customize and redeem yourself here like you
+
+158
+00:02:55,489 --> 00:03:00,709
+You can see it written here as what the
+
+160
+00:02:57,769 --> 00:03:02,989
+People regime he's just a repository
+
+162
+00:03:00,709 --> 00:03:04,640
+With this readme file with all the
+
+164
+00:03:02,989 --> 00:03:07,130
+Information I want inside him and
+
+166
+00:03:04,640 --> 00:03:09,290
+Here it is already written as this
+
+168
+00:03:07,130 --> 00:03:12,210
+Repository is not how this is done
+
+170
+00:03:09,290 --> 00:03:15,570
+Project he's just a repository
+
+172
+00:03:12,210 --> 00:03:17,580
+Is a ballerini/regime race that is the
+
+174
+00:03:15,570 --> 00:03:18,630
+File that I wrote all these
+
+176
+00:03:17,580 --> 00:03:20,910
+Things then I'll get into this
+
+178
+00:03:18,630 --> 00:03:24,630
+Repository indeed is I here
+
+180
+00:03:20,910 --> 00:03:26,370
+Remembering inside my fake account and
+
+182
+00:03:24,630 --> 00:03:27,960
+I'm looking at my normal profile that
+
+184
+00:03:26,370 --> 00:03:30,030
+You can't even look I'll leave the
+
+186
+00:03:27,960 --> 00:03:33,170
+Link here in the description I will enter here
+
+188
+00:03:30,030 --> 00:03:35,880
+In this repository of mine which is that of the
+
+190
+00:03:33,170 --> 00:03:37,710
+Profile and cês can see that there is only look
+
+192
+00:03:35,880 --> 00:03:39,600
+There's only one file that folder here from
+
+194
+00:03:37,710 --> 00:03:41,760
+Workflows later I'll explain to you
+
+196
+00:03:39,600 --> 00:03:44,130
+What is but only have this file laugh
+
+198
+00:03:41,760 --> 00:03:46,650
+From me with all the information he already
+
+200
+00:03:44,130 --> 00:03:48,120
+It's showing everything here beauty so the
+
+202
+00:03:46,650 --> 00:03:50,070
+First thing we're gonna do is
+
+204
+00:03:48,120 --> 00:03:52,290
+Go on my fake profile and create that
+
+206
+00:03:50,070 --> 00:03:54,360
+Repository however the name will not be
+
+208
+00:03:52,290 --> 00:03:56,790
+Race ballerini isn't because like that
+
+210
+00:03:54,360 --> 00:03:59,760
+Rafa ballerini is for that account here
+
+212
+00:03:56,790 --> 00:04:02,460
+The name of the repository has to be the name
+
+214
+00:03:59,760 --> 00:04:04,380
+Of your user in the Rubi kit of your name is
+
+216
+00:04:02,460 --> 00:04:06,570
+Pedro will be losing his name is Gabriela
+
+218
+00:04:04,380 --> 00:04:08,520
+Gabriela's gonna be mean if a man
+
+220
+00:04:06,570 --> 00:04:10,500
+Not your user so here is Rafa
+
+222
+00:04:08,520 --> 00:04:12,220
+Ballerini two look only how cool that
+
+224
+00:04:10,500 --> 00:04:14,740
+Appears as soon as I
+
+226
+00:04:12,220 --> 00:04:17,290
+Hi my name in the Rubi kit it shows that
+
+228
+00:04:14,740 --> 00:04:19,450
+A message and the miss Secret Rafaella
+
+230
+00:04:17,290 --> 00:04:20,739
+Ballerini 2 Bars she flag and
+
+232
+00:04:19,450 --> 00:04:23,530
+Two that the repository with I just
+
+234
+00:04:20,739 --> 00:04:27,640
+Create and already show repository of that
+
+236
+00:04:23,530 --> 00:04:30,700
+That whilst we meet you get if you make
+
+238
+00:04:27,640 --> 00:04:33,790
+Shared Public in Sales with me to get
+
+240
+00:04:30,700 --> 00:04:35,800
+Style or is he saying that only
+
+242
+00:04:33,790 --> 00:04:38,860
+Special repository and you can
+
+244
+00:04:35,800 --> 00:04:41,170
+Use an Edmir for your profile
+
+246
+00:04:38,860 --> 00:04:43,090
+Rubi kit is Are you sure he
+
+248
+00:04:41,170 --> 00:04:46,300
+Will be public to be able to appear in the
+
+250
+00:04:43,090 --> 00:04:48,970
+Profile obviously and initialize it as
+
+252
+00:04:46,300 --> 00:04:51,490
+Edmir to start So look here
+
+254
+00:04:48,970 --> 00:04:53,650
+Down there is already it's already public right me
+
+256
+00:04:51,490 --> 00:04:55,630
+I'll leave him like this and I can already
+
+258
+00:04:53,650 --> 00:04:57,820
+Dictionary of me now that I'm gonna create
+
+260
+00:04:55,630 --> 00:04:59,500
+That even he had spoken already initialize
+
+262
+00:04:57,820 --> 00:05:01,660
+With Luiz of me they liked their English
+
+264
+00:04:59,500 --> 00:05:03,880
+People have it funny so I trying
+
+266
+00:05:01,660 --> 00:05:05,500
+Read in English here for you live
+
+268
+00:05:03,880 --> 00:05:07,390
+So will customize here our
+
+270
+00:05:05,500 --> 00:05:09,970
+Profile click on the lapis for us
+
+272
+00:05:07,390 --> 00:05:12,200
+Go edit this file and remind you that
+
+274
+00:05:09,970 --> 00:05:15,170
+This video me. MD he is
+
+276
+00:05:12,200 --> 00:05:17,090
+And are a point Mark Down that husfrom
+
+278
+00:05:15,170 --> 00:05:19,970
+He's a markup language a little
+
+280
+00:05:17,090 --> 00:05:22,220
+Different from HTML but it accepts HTML
+
+282
+00:05:19,970 --> 00:05:25,130
+Inside isn't that specifically of the hit
+
+284
+00:05:22,220 --> 00:05:26,870
+Ruby accepts and you can see that he already
+
+286
+00:05:25,130 --> 00:05:28,580
+Comes here with some things is also
+
+288
+00:05:26,870 --> 00:05:30,440
+Configured the looks only have one comment
+
+290
+00:05:28,580 --> 00:05:32,240
+Here's saying some things that you
+
+292
+00:05:30,440 --> 00:05:34,280
+You can put that the very one that I love you is
+
+294
+00:05:32,240 --> 00:05:36,290
+Talking to us does so leaving
+
+296
+00:05:34,280 --> 00:05:38,270
+Of course the maritude I'll put here in the
+
+298
+00:05:36,290 --> 00:05:40,730
+Description and also in the script that I'm
+
+300
+00:05:38,270 --> 00:05:43,400
+Of this video here that I'm recording is a
+
+302
+00:05:40,730 --> 00:05:47,000
+Mark Dalmas's guide so you get
+
+304
+00:05:43,400 --> 00:05:50,420
+Put titles like it's H1 H2 H3
+
+306
+00:05:47,000 --> 00:05:53,060
+With the 7 tags you can leave the text in
+
+308
+00:05:50,420 --> 00:05:54,560
+Can leave in Italics it's cool
+
+310
+00:05:53,060 --> 00:05:56,180
+You take a look here for you guys
+
+312
+00:05:54,560 --> 00:05:57,500
+To see all the possibilities that you
+
+314
+00:05:56,180 --> 00:05:59,420
+Can put here inside that file
+
+316
+00:05:57,500 --> 00:06:02,300
+So first thing here that we
+
+318
+00:05:59,420 --> 00:06:03,770
+Will do is take into account what
+
+320
+00:06:02,300 --> 00:06:05,330
+I'll have to be showing us is
+
+322
+00:06:03,770 --> 00:06:07,790
+A comment here but look how cool
+
+324
+00:06:05,330 --> 00:06:11,330
+Is to let your profile just take this
+
+326
+00:06:07,790 --> 00:06:12,210
+Comment right here look I am
+
+328
+00:06:11,330 --> 00:06:14,699
+Currently working
+
+330
+00:06:12,210 --> 00:06:17,069
+And as such a thing I'm currently is
+
+332
+00:06:14,699 --> 00:06:18,960
+Studying the salt thing that just something cool
+
+334
+00:06:17,069 --> 00:06:20,699
+To profile these emojis with
+
+336
+00:06:18,960 --> 00:06:22,800
+Some important information a lot
+
+338
+00:06:20,699 --> 00:06:24,720
+People do I'll even leave at the end here
+
+340
+00:06:22,800 --> 00:06:27,870
+Of the video also some examples of
+
+342
+00:06:24,720 --> 00:06:30,060
+Profiles that I will also do this and you
+
+344
+00:06:27,870 --> 00:06:33,690
+You can put in mine for example my
+
+346
+00:06:30,060 --> 00:06:35,400
+Current tava ballerini I don't have these
+
+348
+00:06:33,690 --> 00:06:37,979
+Emojis But if you want to put and
+
+350
+00:06:35,400 --> 00:06:40,259
+Leaving is a legal option remembering that
+
+352
+00:06:37,979 --> 00:06:42,389
+The emojis for you to catch you can if
+
+354
+00:06:40,259 --> 00:06:44,970
+You are using Windows press the
+
+356
+00:06:42,389 --> 00:06:46,470
+Windows. That he'll already give you the emojis
+
+358
+00:06:44,970 --> 00:06:48,090
+The states I don't know if appeared here
+
+360
+00:06:46,470 --> 00:06:51,060
+In the video because I'm sharing the
+
+362
+00:06:48,090 --> 00:06:52,830
+Window and not the screen but if not you
+
+364
+00:06:51,060 --> 00:06:56,690
+Have with another operating system You
+
+366
+00:06:52,830 --> 00:06:59,699
+You can search for this bug that Emoji
+
+368
+00:06:56,690 --> 00:07:01,889
+Padberg he has all the emojis you
+
+370
+00:06:59,699 --> 00:07:03,599
+Can use look only how cool you
+
+372
+00:07:01,889 --> 00:07:06,270
+Can copy and paste literally if
+
+374
+00:07:03,599 --> 00:07:08,759
+Copies here the Emoji and glue that you
+
+376
+00:07:06,270 --> 00:07:10,349
+Will be able to use then the tip remains
+
+378
+00:07:08,759 --> 00:07:12,220
+I will leave in the description the link too
+
+380
+00:07:10,349 --> 00:07:14,980
+Of that bag and let's get started
+
+382
+00:07:12,220 --> 00:07:16,990
+I gotta copy on what I did in mine
+
+384
+00:07:14,980 --> 00:07:18,970
+Original profile remembering that when the
+
+386
+00:07:16,990 --> 00:07:21,460
+People dictate we can also is
+
+388
+00:07:18,970 --> 00:07:23,380
+Go see with him and predicted himself in the room
+
+390
+00:07:21,460 --> 00:07:25,030
+Predicted how it's getting so look
+
+392
+00:07:23,380 --> 00:07:26,260
+Cool that stays right I'll actually
+
+394
+00:07:25,030 --> 00:07:29,650
+Put some things here
+
+396
+00:07:26,260 --> 00:07:32,920
+I'm working with the interesting
+
+398
+00:07:29,650 --> 00:07:35,680
+I'll give a Speed here found mute
+
+400
+00:07:32,920 --> 00:07:38,730
+Right in the video but I'll just write
+
+402
+00:07:35,680 --> 00:07:38,730
+Some information
+
+404
+00:07:44,420 --> 00:07:47,750
+And here I then put some
+
+406
+00:07:46,400 --> 00:07:49,790
+Information that is today work with
+
+408
+00:07:47,750 --> 00:07:51,620
+Front-end studying typescript
+
+410
+00:07:49,790 --> 00:07:54,320
+Contact me on email and such in fact
+
+412
+00:07:51,620 --> 00:07:56,750
+You don't even need it because it already appears
+
+414
+00:07:54,320 --> 00:07:59,600
+I put it there in my profile and
+
+416
+00:07:56,750 --> 00:08:01,280
+Pronouns I use It's also cool
+
+418
+00:07:59,600 --> 00:08:03,110
+Let's see Brazil as it's getting
+
+420
+00:08:01,280 --> 00:08:07,010
+Look it just got cute there with these
+
+422
+00:08:03,110 --> 00:08:10,750
+Emojis I'm gonna take this Rider out and I'm gonna use
+
+424
+00:08:07,010 --> 00:08:10,750
+A hello
+
+426
+00:08:10,950 --> 00:08:19,140
+Hello Oh my God I am Rafaella
+
+428
+00:08:15,960 --> 00:08:21,660
+Ballerini and two né that some already exist
+
+430
+00:08:19,140 --> 00:08:23,760
+There and now I'll take what's already in the
+
+432
+00:08:21,660 --> 00:08:26,310
+My original profile Let's open here the
+
+434
+00:08:23,760 --> 00:08:28,260
+Repository of this my profile that like the
+
+436
+00:08:26,310 --> 00:08:31,500
+People remember is the user's own name
+
+438
+00:08:28,260 --> 00:08:34,460
+Do it Rame né and I will open the file
+
+440
+00:08:31,500 --> 00:08:36,570
+Readme of the repository I will click on the
+
+442
+00:08:34,460 --> 00:08:38,669
+Little lapis when I click that one goes
+
+444
+00:08:36,570 --> 00:08:41,100
+Create a fort in my profile on your
+
+446
+00:08:38,669 --> 00:08:42,840
+Profile right when you click is from mine
+
+448
+00:08:41,100 --> 00:08:44,490
+Project but you can erase later here
+
+450
+00:08:42,840 --> 00:08:45,870
+There's no way people there when you click
+
+452
+00:08:44,490 --> 00:08:48,890
+In the little lapse you can see the code
+
+454
+00:08:45,870 --> 00:08:52,020
+And you can copy and paste
+
+456
+00:08:48,890 --> 00:08:53,700
+So come on I put it's a title
+
+458
+00:08:52,020 --> 00:08:55,560
+That even I hadn't done here I
+
+460
+00:08:53,700 --> 00:08:56,670
+I put hello I only told Dani two
+
+462
+00:08:55,560 --> 00:08:58,950
+Months here has a hi I only speak
+
+464
+00:08:56,670 --> 00:09:02,550
+Ballerini beauty that part here
+
+466
+00:08:58,950 --> 00:09:05,820
+Right after comes the sadive with the
+
+468
+00:09:02,550 --> 00:09:08,670
+Rubi stands gift that are these two
+
+470
+00:09:05,820 --> 00:09:10,410
+Giant images with total food
+
+472
+00:09:08,670 --> 00:09:10,930
+The stars I 've got the languages
+
+474
+00:09:10,410 --> 00:09:13,029
+With more
+
+476
+00:09:10,930 --> 00:09:15,580
+That's pretty cool what y'all always me
+
+478
+00:09:13,029 --> 00:09:17,320
+Ask how do you do it just
+
+480
+00:09:15,580 --> 00:09:19,390
+Copy and paste from my profile but it's not
+
+482
+00:09:17,320 --> 00:09:23,170
+Just that don't go there I copied here
+
+484
+00:09:19,390 --> 00:09:25,149
+So this div I'm gonna paste here with now
+
+486
+00:09:23,170 --> 00:09:27,420
+I already don't know where I'm gonna put I'm gonna
+
+488
+00:09:25,149 --> 00:09:31,720
+Put down there this information
+
+490
+00:09:27,420 --> 00:09:34,839
+Lives is and what's here doesn't have the tag
+
+492
+00:09:31,720 --> 00:09:37,209
+Is that we will be the clickable
+
+494
+00:09:34,839 --> 00:09:39,010
+Right when I click on these images he
+
+496
+00:09:37,209 --> 00:09:41,350
+Will you want to direct to my own
+
+498
+00:09:39,010 --> 00:09:43,029
+Kit profile Ruby And remembering that here
+
+500
+00:09:41,350 --> 00:09:45,700
+Oh, you're redirecting to Rafa
+
+502
+00:09:43,029 --> 00:09:47,800
+Ballerini that's not my profile right this
+
+504
+00:09:45,700 --> 00:09:49,690
+Fake and it won't be yours too if you
+
+506
+00:09:47,800 --> 00:09:51,279
+Copy you have to change here to the
+
+508
+00:09:49,690 --> 00:09:53,290
+Your user then I will already change here
+
+510
+00:09:51,279 --> 00:09:54,790
+For Rafael ballerini two or you
+
+512
+00:09:53,290 --> 00:09:57,610
+Can put to redirect to
+
+514
+00:09:54,790 --> 00:09:59,589
+Any other web site you want
+
+516
+00:09:57,610 --> 00:10:01,480
+And actually I think I'm gonna put
+
+518
+00:09:59,589 --> 00:10:03,850
+Here to redirect to my beak
+
+520
+00:10:01,480 --> 00:10:06,490
+Look how cool I think it's gonna be
+
+522
+00:10:03,850 --> 00:10:08,890
+Interesting in later I'll send in
+
+524
+00:10:06,490 --> 00:10:10,899
+My original by the way and soon after
+
+526
+00:10:08,890 --> 00:10:13,120
+Come the two image tags are the two
+
+528
+00:10:10,899 --> 00:10:15,040
+Images in fact but we also have
+
+530
+00:10:13,120 --> 00:10:17,350
+Than to realize that you look at what you're talking about
+
+532
+00:10:15,040 --> 00:10:18,940
+From the specters of Rafaella ballerini I
+
+534
+00:10:17,350 --> 00:10:21,490
+I'm not the Ballerina room just the room
+
+536
+00:10:18,940 --> 00:10:23,800
+Line 2 I don't have it all star
+
+538
+00:10:21,490 --> 00:10:25,300
+The invitation and much less languages
+
+540
+00:10:23,800 --> 00:10:27,399
+It's not because I haven't done anything yet in this
+
+542
+00:10:25,300 --> 00:10:29,560
+So we have to give
+
+544
+00:10:27,399 --> 00:10:30,820
+Look here at the URL I'll actually go from
+
+546
+00:10:29,560 --> 00:10:33,370
+Show you here that this is all
+
+548
+00:10:30,820 --> 00:10:37,420
+What's going on, right here's the time
+
+550
+00:10:33,370 --> 00:10:40,180
+Image that will be 180 m and here is the URL
+
+552
+00:10:37,420 --> 00:10:43,209
+That automatically makes this count of
+
+554
+00:10:40,180 --> 00:10:46,329
+Comics and also of the stars and tals
+
+556
+00:10:43,209 --> 00:10:48,850
+That you 've got eh you can see it's a
+
+558
+00:10:46,329 --> 00:10:51,880
+Big Ruby redimends see heaven then he
+
+560
+00:10:48,850 --> 00:10:53,260
+It's running there in the sky and there's some
+
+562
+00:10:51,880 --> 00:10:55,959
+Information that we are passing on
+
+564
+00:10:53,260 --> 00:10:57,590
+Own url that we can change by
+
+566
+00:10:55,959 --> 00:10:59,540
+Example and use name you
+
+568
+00:10:57,590 --> 00:11:01,340
+And leave the ballerini race otherwise will
+
+570
+00:10:59,540 --> 00:11:03,350
+To show up my information on your
+
+572
+00:11:01,340 --> 00:11:05,900
+Profile so we exchange Rafa here
+
+574
+00:11:03,350 --> 00:11:08,090
+Valeria for vallorini two here
+
+576
+00:11:05,900 --> 00:11:12,290
+Below also O have a user name you
+
+578
+00:11:08,090 --> 00:11:16,040
+Exchange for Rafa ballerini two here who
+
+580
+00:11:12,290 --> 00:11:17,690
+So let's see more that show icons
+
+582
+00:11:16,040 --> 00:11:21,020
+What is this show there with the
+
+584
+00:11:17,690 --> 00:11:23,560
+Chow-chow and built I'll take away I'll
+
+586
+00:11:21,020 --> 00:11:26,990
+Put fake let's see how that
+
+588
+00:11:23,560 --> 00:11:29,390
+Happened to then he took the
+
+590
+00:11:26,990 --> 00:11:31,700
+Icons that had before the total Stars
+
+592
+00:11:29,390 --> 00:11:34,170
+Total with me then let me show of
+
+594
+00:11:31,700 --> 00:11:37,860
+New né chuchu
+
+596
+00:11:34,170 --> 00:11:39,630
+And then look just showed here the icons is
+
+598
+00:11:37,860 --> 00:11:42,180
+One thing you can configure the
+
+600
+00:11:39,630 --> 00:11:45,750
+Dracula theme Must exist other themes
+
+602
+00:11:42,180 --> 00:11:47,550
+We must have Dark, for example
+
+604
+00:11:45,750 --> 00:11:49,889
+Sending the first image, not remembering
+
+606
+00:11:47,550 --> 00:11:51,720
+Preview ó appeared the theme analysis can
+
+608
+00:11:49,889 --> 00:11:53,699
+Then I 've been walking really cool it's
+
+610
+00:11:51,720 --> 00:11:55,170
+Different already And then you can put this
+
+612
+00:11:53,699 --> 00:11:57,540
+Theme give down here too
+
+614
+00:11:55,170 --> 00:12:00,779
+Probably to the Dracula theme put
+
+616
+00:11:57,540 --> 00:12:03,420
+This city is the one that got listed people
+
+618
+00:12:00,779 --> 00:12:05,279
+They have a repository with all the
+
+620
+00:12:03,420 --> 00:12:07,500
+Information is they are project
+
+622
+00:12:05,279 --> 00:12:09,240
+Truth I'll leave here in the description
+
+624
+00:12:07,500 --> 00:12:10,589
+But I'm gonna show you guys from here
+
+626
+00:12:09,240 --> 00:12:14,130
+Little also what are the settings
+
+628
+00:12:10,589 --> 00:12:16,320
+That you can do look at what I
+
+630
+00:12:14,130 --> 00:12:18,750
+I thought it was this, right, maybe you can have a
+
+632
+00:12:16,320 --> 00:12:20,730
+Another with that same proposal is that
+
+634
+00:12:18,750 --> 00:12:22,589
+I had seen before but this one that I
+
+636
+00:12:20,730 --> 00:12:24,389
+Use it is only in their regime
+
+638
+00:12:22,589 --> 00:12:27,149
+Repository has all specifications
+
+640
+00:12:24,389 --> 00:12:29,399
+Look how much stuff How many themes
+
+642
+00:12:27,149 --> 00:12:30,930
+Different that you can put look
+
+644
+00:12:29,399 --> 00:12:34,180
+All the properties you can
+
+646
+00:12:30,930 --> 00:12:36,130
+Pass there in the URL so I recommend
+
+648
+00:12:34,180 --> 00:12:39,940
+Take a look even here I'll leave
+
+650
+00:12:36,130 --> 00:12:43,540
+Also in the script of the video that is in the
+
+652
+00:12:39,940 --> 00:12:45,790
+Repository there also in the description and
+
+654
+00:12:43,540 --> 00:12:47,529
+That's it people this is the obstetric kit and
+
+656
+00:12:45,790 --> 00:12:50,410
+For you also have a notion for
+
+658
+00:12:47,529 --> 00:12:52,959
+Example here in my profile You can see
+
+660
+00:12:50,410 --> 00:12:57,760
+That's one more so it starts there
+
+662
+00:12:52,959 --> 00:12:59,170
+With counting the most foods
+
+664
+00:12:57,760 --> 00:13:03,910
+Stars I think he really counts
+
+666
+00:12:59,170 --> 00:13:06,459
+Everything you know here by ixos quest and
+
+668
+00:13:03,910 --> 00:13:09,700
+You see for example in my profile that I
+
+670
+00:13:06,459 --> 00:13:12,010
+I'm the one more original then
+
+672
+00:13:09,700 --> 00:13:14,140
+Also have SS more if I'm not mistaken
+
+674
+00:13:12,010 --> 00:13:15,790
+So more and there you go growing
+
+676
+00:13:14,140 --> 00:13:17,649
+As the quantity increases there
+
+678
+00:13:15,790 --> 00:13:19,990
+Of stars like these things but
+
+680
+00:13:17,649 --> 00:13:21,870
+So people this is something to increase the
+
+682
+00:13:19,990 --> 00:13:24,160
+Our own ego isn't because in fact
+
+684
+00:13:21,870 --> 00:13:27,100
+No one enters the profile of others and
+
+686
+00:13:24,160 --> 00:13:28,959
+Stay it's more not so it's quite silly
+
+688
+00:13:27,100 --> 00:13:30,430
+Who knows, it's just to make it cute
+
+690
+00:13:28,959 --> 00:13:32,920
+Profile even why he already starts
+
+692
+00:13:30,430 --> 00:13:34,190
+With the most that is already a very cool note
+
+694
+00:13:32,920 --> 00:13:37,040
+So cool we can
+
+696
+00:13:34,190 --> 00:13:38,420
+And with our obstetric kit in fact not
+
+698
+00:13:37,040 --> 00:13:40,130
+Nothing is showing up here because I don't
+
+700
+00:13:38,420 --> 00:13:42,050
+I made no comment but if you have
+
+702
+00:13:40,130 --> 00:13:44,540
+Invitations you will see that it will appear
+
+704
+00:13:42,050 --> 00:13:48,650
+And they're gonna be the next part of our beach
+
+706
+00:13:44,540 --> 00:13:51,650
+Rugby is profile I here that I put
+
+708
+00:13:48,650 --> 00:13:53,810
+Are all images of the languages that
+
+710
+00:13:51,650 --> 00:13:55,550
+I use it, so I'll copy it and I'll paste it there
+
+712
+00:13:53,810 --> 00:13:57,260
+It's also not here to lose you can
+
+714
+00:13:55,550 --> 00:13:59,480
+See then these are from here I have
+
+716
+00:13:57,260 --> 00:14:00,800
+I'll copy and paste but I'll show
+
+718
+00:13:59,480 --> 00:14:02,300
+For you where you can find
+
+720
+00:14:00,800 --> 00:14:04,310
+Because you may not necessarily
+
+722
+00:14:02,300 --> 00:14:06,260
+To use these same languages that
+
+724
+00:14:04,310 --> 00:14:08,120
+They use right I don't know exactly the
+
+726
+00:14:06,260 --> 00:14:10,610
+Where I picked up I don't remember being too much
+
+728
+00:14:08,120 --> 00:14:12,110
+Sincere but I'll pass on to you will
+
+730
+00:14:10,610 --> 00:14:14,030
+Website I already know that I know
+
+732
+00:14:12,110 --> 00:14:17,620
+Has all the languages that is the must ai
+
+734
+00:14:14,030 --> 00:14:19,870
+With must there with him there must aiko
+
+736
+00:14:17,620 --> 00:14:22,839
+Just look
+
+738
+00:14:19,870 --> 00:14:26,710
+And he has all the languages that you
+
+740
+00:14:22,839 --> 00:14:28,779
+Can pick up and you can download the svg and the
+
+742
+00:14:26,710 --> 00:14:30,610
+I'm going back here for my profile has
+
+744
+00:14:28,779 --> 00:14:32,770
+This little trace I had played here
+
+746
+00:14:30,610 --> 00:14:35,440
+That these 27 tags they form a
+
+748
+00:14:32,770 --> 00:14:37,490
+I will also put the tracer to stay
+
+750
+00:14:35,440 --> 00:14:41,029
+Cute
+
+752
+00:14:37,490 --> 00:14:44,330
+Good and that I had put after
+
+754
+00:14:41,029 --> 00:14:46,130
+There's information from my networks
+
+756
+00:14:44,330 --> 00:14:48,560
+Social look just how cool is YouTube
+
+758
+00:14:46,130 --> 00:14:50,690
+Instagram and Twitter disagreed 'Gmail
+
+760
+00:14:48,560 --> 00:14:54,350
+LinkedIn And for that then people I go
+
+762
+00:14:50,690 --> 00:14:57,589
+Also copy here is a div but I will
+
+764
+00:14:54,350 --> 00:15:00,230
+Pick up only the parts of social networks
+
+766
+00:14:57,589 --> 00:15:06,410
+Here to paste and I will create my own
+
+768
+00:15:00,230 --> 00:15:10,180
+Of me here div and close div and here
+
+770
+00:15:06,410 --> 00:15:14,060
+Our inside it keeps causing here in the
+
+772
+00:15:10,180 --> 00:15:17,690
+Temptation right and I'll paste here so there's
+
+774
+00:15:14,060 --> 00:15:20,180
+All tags with references for
+
+776
+00:15:17,690 --> 00:15:23,180
+O for my Brazil social networks
+
+778
+00:15:20,180 --> 00:15:24,649
+So when you see YouTube here he
+
+780
+00:15:23,180 --> 00:15:27,200
+Is redirecting to my channel
+
+782
+00:15:24,649 --> 00:15:29,600
+That here's the picture so I'll already go
+
+784
+00:15:27,200 --> 00:15:31,220
+Show you exactly that website
+
+786
+00:15:29,600 --> 00:15:35,240
+Here that shows all the images that
+
+788
+00:15:31,220 --> 00:15:37,500
+You can use It's no dev.to that
+
+790
+00:15:35,240 --> 00:15:41,310
+Here I will also leave here in the description
+
+792
+00:15:37,500 --> 00:15:43,110
+The link Oops is this one but I have
+
+794
+00:15:41,310 --> 00:15:44,520
+Very website that shows quite a lot
+
+796
+00:15:43,110 --> 00:15:47,730
+Look how cool you people can
+
+798
+00:15:44,520 --> 00:15:50,630
+Simply copy that it's where the
+
+800
+00:15:47,730 --> 00:15:50,630
+YouTube for example
+
+802
+00:15:50,970 --> 00:15:59,579
+Okay, I'll get Gmail's right here
+
+804
+00:15:55,879 --> 00:16:02,540
+Copy Probably the same and paste that
+
+806
+00:15:59,579 --> 00:16:05,780
+Is not button CRC
+
+808
+00:16:02,540 --> 00:16:07,730
+And changed something has this site has
+
+810
+00:16:05,780 --> 00:16:11,210
+Another also that I use left only
+
+812
+00:16:07,730 --> 00:16:13,220
+Remember What is the this chips so
+
+814
+00:16:11,210 --> 00:16:16,370
+These unto also have some
+
+816
+00:16:13,220 --> 00:16:18,920
+Pretty cool beds you can do go
+
+818
+00:16:16,370 --> 00:16:22,220
+Leave here in the description the repository
+
+820
+00:16:18,920 --> 00:16:24,110
+With all these links that's this people
+
+822
+00:16:22,220 --> 00:16:25,990
+You're adding that you want
+
+824
+00:16:24,110 --> 00:16:30,590
+Can see has WhatsApp telegram
+
+826
+00:16:25,990 --> 00:16:33,680
+Messenger protomeios fan what you
+
+828
+00:16:30,590 --> 00:16:35,270
+You want to do that the Armmanda tag
+
+830
+00:16:33,680 --> 00:16:38,930
+Where you want to go the link that goes
+
+832
+00:16:35,270 --> 00:16:42,020
+Be your WhatsApp and puts the immediate is
+
+834
+00:16:38,930 --> 00:16:43,910
+Gay I measured with src with the image there with the
+
+836
+00:16:42,020 --> 00:16:45,420
+Image link Look just as it is already
+
+838
+00:16:43,910 --> 00:16:47,580
+Getting
+
+840
+00:16:45,420 --> 00:16:50,190
+Ah with all my social networks
+
+842
+00:16:47,580 --> 00:16:52,080
+Here he's already broken here but this
+
+844
+00:16:50,190 --> 00:16:54,120
+Business sometimes a bugger knows has
+
+846
+00:16:52,080 --> 00:16:56,930
+Some profiles of some people that the
+
+848
+00:16:54,120 --> 00:16:59,970
+Size of a bugada so he doesn't stay
+
+850
+00:16:56,930 --> 00:17:02,340
+On the same line but sometimes he doesn't
+
+852
+00:16:59,970 --> 00:17:04,560
+Predicted it does not stay there in the profile is then
+
+854
+00:17:02,340 --> 00:17:06,960
+Takes a look at it but sometimes what
+
+856
+00:17:04,560 --> 00:17:10,350
+You have to change is there in that is
+
+858
+00:17:06,960 --> 00:17:12,630
+Rite height width also there goes only
+
+860
+00:17:10,350 --> 00:17:14,400
+Move there in the special HTML that is well
+
+862
+00:17:12,630 --> 00:17:16,320
+Quiet and last thing we have
+
+864
+00:17:14,400 --> 00:17:19,800
+Here in my not calm profile still has the
+
+866
+00:17:16,320 --> 00:17:25,040
+My gif Zinho here is so much that I
+
+868
+00:17:19,800 --> 00:17:25,040
+I left my gif people where's my gif
+
+870
+00:17:25,310 --> 00:17:32,890
+And I'm shocked Where's my gif This one
+
+872
+00:17:28,880 --> 00:17:36,790
+Will be let's see if that's my gif
+
+874
+00:17:32,890 --> 00:17:37,900
+And that was the same one who was Yoda
+
+876
+00:17:36,790 --> 00:17:40,240
+I remember in the old days I had
+
+878
+00:17:37,900 --> 00:17:41,950
+Put a Yoda GIF that's why
+
+880
+00:17:40,240 --> 00:17:45,490
+Back to exchange show you how I
+
+882
+00:17:41,950 --> 00:17:48,520
+I made my gif here is this site I believe
+
+884
+00:17:45,490 --> 00:17:50,890
+I be the Japanese and you can ride the
+
+886
+00:17:48,520 --> 00:17:54,370
+Your gif also actually you ride a
+
+888
+00:17:50,890 --> 00:17:56,140
+Photo and then you go in the creator of gifs and
+
+890
+00:17:54,370 --> 00:17:58,630
+Puts two photos and these two photos
+
+892
+00:17:56,140 --> 00:18:01,300
+Stayed interspersed you do different
+
+894
+00:17:58,630 --> 00:18:03,550
+Two images of yours and then she becomes one
+
+896
+00:18:01,300 --> 00:18:06,340
+GIF that's how I did my sent
+
+898
+00:18:03,550 --> 00:18:09,670
+There on the server of the disagreed at some
+
+900
+00:18:06,340 --> 00:18:12,000
+Message I copied the message link and there
+
+902
+00:18:09,670 --> 00:18:14,860
+Is the link of the gifc itself the tip
+
+904
+00:18:12,000 --> 00:18:17,470
+Below we'll put what the
+
+906
+00:18:14,860 --> 00:18:20,890
+Charge and the snake we are for
+
+908
+00:18:17,470 --> 00:18:24,430
+Making the agent uses the Rubi kit
+
+910
+00:18:20,890 --> 00:18:25,930
+Workflow is not the bit of Action I will not
+
+912
+00:18:24,430 --> 00:18:27,970
+Explain about it here in that video
+
+914
+00:18:25,930 --> 00:18:29,590
+Because otherwise it will extend a lot if you
+
+916
+00:18:27,970 --> 00:18:32,590
+Want the video explaining leaves here
+
+918
+00:18:29,590 --> 00:18:32,870
+In the comments and I have a post in the
+
+920
+00:18:32,590 --> 00:18:35,750
+Instagram
+
+922
+00:18:32,870 --> 00:18:37,040
+The step by step of how to create collection
+
+924
+00:18:35,750 --> 00:18:40,010
+But I'll show you what
+
+926
+00:18:37,040 --> 00:18:44,390
+It's exactly this zucchini you can
+
+928
+00:18:40,010 --> 00:18:46,640
+See it's a svg it's wont I copy and
+
+930
+00:18:44,390 --> 00:18:48,200
+I'm gonna stick here too but always
+
+932
+00:18:46,640 --> 00:18:50,780
+Remembering that these things you copy from
+
+934
+00:18:48,200 --> 00:18:52,670
+My profile they're from my profile So
+
+936
+00:18:50,780 --> 00:18:54,380
+The information that comes that neither
+
+938
+00:18:52,670 --> 00:18:55,940
+Rallies that the snake will eat from mine
+
+940
+00:18:54,380 --> 00:18:58,760
+Original profile is not the one I'm
+
+942
+00:18:55,940 --> 00:19:00,980
+Gluing but not just like changing here
+
+944
+00:18:58,760 --> 00:19:02,150
+For Ballerina race and two has one thing
+
+946
+00:19:00,980 --> 00:19:04,220
+That you have to do on key day
+
+948
+00:19:02,150 --> 00:19:05,929
+Actions so he can stay
+
+950
+00:19:04,220 --> 00:19:08,059
+Recharging every time you make a
+
+952
+00:19:05,929 --> 00:19:10,550
+New invitation right What if we do
+
+954
+00:19:08,059 --> 00:19:14,120
+Here the preview for giving the right profile
+
+956
+00:19:10,550 --> 00:19:15,950
+Here he'll just break my
+
+958
+00:19:14,120 --> 00:19:18,200
+Snake Animation why why is he
+
+960
+00:19:15,950 --> 00:19:20,210
+Directly linked there with the hit Rehab
+
+962
+00:19:18,200 --> 00:19:22,070
+It's question I don't have I didn't do
+
+964
+00:19:20,210 --> 00:19:24,200
+Here in mine as I spoke I'll leave
+
+966
+00:19:22,070 --> 00:19:25,790
+Down here in the description the link of the
+
+968
+00:19:24,200 --> 00:19:27,920
+My Instagram post I teach
+
+970
+00:19:25,790 --> 00:19:29,870
+Step by step making the snake and I will
+
+972
+00:19:27,920 --> 00:19:32,880
+To do here quickly not to get one
+
+974
+00:19:29,870 --> 00:19:34,940
+Very extensive video and
+
+976
+00:19:32,880 --> 00:19:34,940
+And there
+
+978
+00:19:37,299 --> 00:19:39,360
+And there
+
+980
+00:19:39,870 --> 00:19:51,360
+And there
+
+982
+00:19:43,290 --> 00:19:54,660
+Already carried so now let's go in mine
+
+984
+00:19:51,360 --> 00:19:56,760
+Profile let's see if he was ever look
+
+986
+00:19:54,660 --> 00:19:58,680
+Still having a kidney problem right that one
+
+988
+00:19:56,760 --> 00:20:02,360
+Mess I promised some configuration that I
+
+990
+00:19:58,680 --> 00:20:07,950
+I still haven't tidy up doesn't let me see here
+
+992
+00:20:02,360 --> 00:20:11,130
+The flower bow I 've already worked out that the
+
+994
+00:20:07,950 --> 00:20:17,670
+Rafa ballerini two né so let's see
+
+996
+00:20:11,130 --> 00:20:20,310
+I made Genghis and took a look only here
+
+998
+00:20:17,670 --> 00:20:22,410
+Two invitations, né Neuza Look just goes
+
+1000
+00:20:20,310 --> 00:20:25,350
+Day that's different right I made an invitation
+
+1002
+00:20:22,410 --> 00:20:28,320
+Yesterday and now today that gave me midnight
+
+1004
+00:20:25,350 --> 00:20:29,940
+Our old man was gave time that spent
+
+1006
+00:20:28,320 --> 00:20:31,890
+Midnight there are two days there that I
+
+1008
+00:20:29,940 --> 00:20:34,530
+I made Comet in this profile look how cool
+
+1010
+00:20:31,890 --> 00:20:36,570
+I hope you liked it, I'll propose
+
+1012
+00:20:34,530 --> 00:20:39,030
+For you guys to play down here
+
+1014
+00:20:36,570 --> 00:20:40,770
+Comments the Rubi kit of you and the
+
+1016
+00:20:39,030 --> 00:20:43,050
+People take a look at everyone who goes
+
+1018
+00:20:40,770 --> 00:20:43,270
+Coming up you look at the profile and go
+
+1020
+00:20:43,050 --> 00:20:45,490
+Gives
+
+1022
+00:20:43,270 --> 00:20:47,950
+What do you think is cool and then we go
+
+1024
+00:20:45,490 --> 00:20:49,960
+Do in the middle that one don't know I believe
+
+1026
+00:20:47,950 --> 00:20:51,360
+Here that in the YouTube comments they
+
+1028
+00:20:49,960 --> 00:20:54,760
+Always put closer who are
+
+1030
+00:20:51,360 --> 00:20:55,840
+Most liked is no longer liked So the
+
+1032
+00:20:54,760 --> 00:20:57,760
+People will do in the middle of the stack
+
+1034
+00:20:55,840 --> 00:20:59,920
+Overflow profiles for personal power
+
+1036
+00:20:57,760 --> 00:21:01,960
+Accompany and be inspired too if you
+
+1038
+00:20:59,920 --> 00:21:03,460
+Feel free to put yours here
+
+1040
+00:21:01,960 --> 00:21:05,350
+That's it people hope they enjoyed
+
+1042
+00:21:03,460 --> 00:21:06,910
+Of today's video do not forget to
+
+1044
+00:21:05,350 --> 00:21:09,970
+Subscribe to the channel that I always have
+
+1046
+00:21:06,910 --> 00:21:12,040
+Posted video Every 15 days Maybe right
+
+1048
+00:21:09,970 --> 00:21:13,750
+It's no longer every week 'cause I'm fine
+
+1050
+00:21:12,040 --> 00:21:15,190
+Race also follows me on the other networks
+
+1052
+00:21:13,750 --> 00:21:17,800
+Social that I 've got I'm gonna leave
+
+1054
+00:21:15,190 --> 00:21:21,390
+Here in the description a kiss for you
+
+1056
+00:21:17,800 --> 00:21:21,390
+Thanks for watching the video until
